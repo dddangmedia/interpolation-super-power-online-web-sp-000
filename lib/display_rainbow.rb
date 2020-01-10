@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
 
 def display_rainbow(colors)
-  puts "#{colors.}: #{colors}"
+  puts "#{colors[0].capitalize}: #{colors}"
 end
